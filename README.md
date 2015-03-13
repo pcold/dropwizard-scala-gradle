@@ -18,3 +18,6 @@ i also couldn't seem to find a basic 'hello world' using the dropwizard-scala pl
 
 # scalatest and scoverage
 test cases using scalatest with scoverage for coverage checks.
+
+# ports
+application is on port 9090, admin on 9091
