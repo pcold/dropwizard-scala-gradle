@@ -2,8 +2,8 @@ package org.pcold.hello.resources
 
 import java.util.concurrent.atomic.AtomicLong
 import javax.validation.Valid
-import javax.ws.rs.{QueryParam, GET, Produces, Path}
 import javax.ws.rs.core.MediaType
+import javax.ws.rs.{GET, Path, Produces, QueryParam}
 
 import com.codahale.metrics.annotation.Timed
 import org.pcold.hello.core.Saying

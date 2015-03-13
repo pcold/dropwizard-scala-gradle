@@ -1,6 +1,6 @@
 package org.pcold.hello
 
-import org.scalatest.{Matchers, FlatSpec}
+import org.scalatest.{FlatSpec, Matchers}
 
 /**
  * @author pcold
