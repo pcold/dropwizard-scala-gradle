@@ -1,0 +1,5 @@
+include 'client'
+include 'api'
+include 'service'
+
+rootProject.name = 'dropwizard-scala-gradle'
